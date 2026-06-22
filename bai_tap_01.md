@@ -20,7 +20,7 @@ Kích hoạt TCP (Enable + Active: Yes) cho địa chỉ 127.0.0.1. Thiết lậ
 
 3: Kiểm tra trạng thái dịch vụ (Service)
 Xác nhận service SQL Server đang ở trạng thái Running và đã mở đúng cổng vừa cấu hình.
- <img width="2560" height="1440" alt="Screenshot 2026-04-10 184926" src="https://github.com/user-attachments/assets/587c3bc9-aa1e-45c2-8c63-dfa780acee97" />
+<img width="338" height="17" alt="Screenshot 2026-06-22 115333" src="https://github.com/user-attachments/assets/4283ab4e-a93e-45b0-960c-25915017b0ef" />
 
 4: Cài đặt công cụ quản trị
 Hoàn tất cài đặt phần mềm SQL Server Management Studio (SSMS).
